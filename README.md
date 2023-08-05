@@ -1,3 +1,2 @@
 
-gmg gng
-no
+GM GM
